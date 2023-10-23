@@ -18,7 +18,7 @@ function Lamp(name, brand, power, bulbType) {
     this.name = name;
     this.brand = brand;
     this.power = power;
-    this.lampType = bulbType;
+    this.bulbType = bulbType;
     this.isPlugged = true;
 }
 
